@@ -1,0 +1,12 @@
+.home_heading {
+    font-size: 3rem;
+    z-index:100;
+}
+
+.home_nav a {
+    color: var(--gray);
+}
+
+.personal-btn:active {
+    text-decoration: underline;
+}
