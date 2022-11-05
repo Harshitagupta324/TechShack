@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+## PROBLEM STATEMENT
+More than 90,000 medical students graduate every year and every student reads at least 100 different books throughout their journey of becoming a specialist. 
+* They find it difficult to store those study materials in an organised manner for the long run.
+* E-books stored locally in the device takes up a lot of phone’s storage which will be an issue when one cannot delete the previously downloaded ebooks either to free up space. 
+* At times, it is difficult to revise from the same book in which you have made notes previously because you see all the solved exercises instead of blank questions.
+* While self-studying, sometimes students get stuck and are unable to understand a particular paragraph for which they have to rely on the internet or call their friend to ask the meaning which takes very much of their time.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## PROPOSED SOLUTION
+We have ideated an app-based solution where we will provide them different facilities/features at a single place, where they can:
+* Upload their personal hand-written notes for easy access and easily share these notes with their friends/others.
+* Download and read e-books, make personalised notes in it.
+* Ask doubts for a particular paragraph on a page.
+* Download a new copy of the book without deleting their previous notes-ridden book.
+* All the books/notes are stored over the cloud storage thus saving local storage space.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## TEAM DETAILS
+Team Name - TechShack <br>
+Team Members - Divya Aggarwal(Team Leader), Harshita Gupta, Lakshya Gupta, Ritik Singh
