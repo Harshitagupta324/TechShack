@@ -10,7 +10,7 @@
 }
 
 .home_notes_container {
-    padding:8rem 0rem 5rem 0rem;
+    padding: 8rem 0rem 5rem 0rem;
 }
 
 .card-overlay {
@@ -31,4 +31,11 @@
     opacity: 0.6;
     z-index: -1;
     transition: 2s all ease-in;
+}
+
+@media screen and (min-width: 900px) {
+    .notes-card {
+        zoom: 1.6;
+        margin: 1.5rem 2rem !important;
+    }
 }
