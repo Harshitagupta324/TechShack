@@ -13,6 +13,20 @@ We have ideated an app-based solution where we will provide them different facil
 * Download a new copy of the book without deleting their previous notes-ridden book.
 * All the books/notes are stored over the cloud storage thus saving local storage space.
 
+## LOGIN CREDENTIALS
+Username : test
+Password : test@123test
+
+To run the code on your system:
+* Clone the repositry
+* Run npm install and then npm start
+
+## LINK TO OUR WEBSITE
+www.zealfor.study
+
+## PRESENTATION LINK
+
 ## TEAM DETAILS
 Team Name - TechShack <br>
 Team Members - Divya Aggarwal(Team Leader), Harshita Gupta, Lakshya Gupta, Ritik Singh
+
