@@ -22,9 +22,10 @@ To run the code on your system:
 * Run npm install and then npm start
 
 ## LINK TO OUR WEBSITE
-www.zealfor.study
+https://leads-362716.de.r.appspot.com/home
 
 ## PRESENTATION LINK
+https://docs.google.com/presentation/d/1q8BEnRuiagOXqqYz2iyICsOIq6NwOctOvLkqOE2pV6M/edit#slide=id.g183d4c367a1_0_0
 
 ## TEAM DETAILS
 Team Name - TechShack <br>
