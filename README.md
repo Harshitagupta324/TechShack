@@ -27,6 +27,10 @@ https://leads-362716.de.r.appspot.com/home
 ## PRESENTATION LINK
 https://docs.google.com/presentation/d/1q8BEnRuiagOXqqYz2iyICsOIq6NwOctOvLkqOE2pV6M/edit#slide=id.g183d4c367a1_0_0
 
+## UI DESIGN
+https://drive.google.com/file/d/1xMgLRHYSSxNzzje6b0l2C7Erg12oooSL/view?usp=sharing
+https://www.figma.com/proto/fJv2GMOYE0p3YWMma7eGQr/HackCBS-project?page-id=0%3A1&node-id=24%3A29&viewport=351%2C5%2C0.1&scaling=contain&starting-point-node-id=24%3A29
+
 ## TEAM DETAILS
 Team Name - TechShack <br>
 Team Members - Divya Aggarwal(Team Leader), Harshita Gupta, Lakshya Gupta, Ritik Singh
